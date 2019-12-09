@@ -89,6 +89,8 @@ public class RedSox extends TestBase {
         String firstOption = searchOptions1.get(0).getText();
         System.out.println(firstOption.startsWith("Boston Red Sox"));
         extentLogger.pass("PASS");
+        
+        System.out.println("Ekrem Guler");
     }
 
 

@@ -1,4 +1,4 @@
-package com.cybertek.Assignment2;
+package com.cybertek.odevler.Assignment2;
 
 import com.cybertek.utilities.WebDriverFactory;
 import org.openqa.selenium.By;

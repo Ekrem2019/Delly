@@ -1,4 +1,4 @@
-package com.cybertek.TestCases4;
+package com.cybertek.odevler.TestCases4;
 
 import com.cybertek.tests.TestBase;
 import com.cybertek.utilities.ConfigurationReader;

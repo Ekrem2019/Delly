@@ -1,4 +1,4 @@
-package com.cybertek.Locators;
+package com.cybertek.odevler.Locators;
 
 import com.cybertek.utilities.WebDriverFactory;
 import org.openqa.selenium.By;

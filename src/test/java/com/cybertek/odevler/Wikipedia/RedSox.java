@@ -1,4 +1,4 @@
-package com.cybertek.Wikipedia;
+package com.cybertek.odevler.Wikipedia;
 
 import com.cybertek.tests.TestBase;
 import com.cybertek.utilities.WebDriverFactory;

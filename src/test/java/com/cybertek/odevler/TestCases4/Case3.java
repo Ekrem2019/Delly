@@ -1,4 +1,4 @@
-package com.cybertek.TestCases4;
+package com.cybertek.odevler.TestCases4;
 
 import com.cybertek.tests.TestBase;
 import com.cybertek.utilities.ConfigurationReader;
@@ -17,7 +17,7 @@ public class Case3 extends TestBase {
         String url = ConfigurationReader.get("url");
         driver.findElement(By.id("prependedInput")).sendKeys("storemanager85");
         driver.findElement(By.id("prependedInput2")).sendKeys("UserUser123"+ Keys.ENTER);
-        Thread.sleep(2000);
+        Thread.sleep(3000);
         driver.findElement(By.xpath("(//span[@class='title title-level-1'])[5]")).click();
         Thread.sleep(2000);
         driver.findElement(By.linkText("Calendar Events")).click();

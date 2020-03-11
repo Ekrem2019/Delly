@@ -40,9 +40,9 @@ public class TestCase1 {
         }else{
             System.out.println("fail");
         }
-
+System.out.println("Osman Abi sen iyi adamsin");
+        
 driver.quit();
-
 
 
 

@@ -42,7 +42,7 @@ public class TestCase1 {
         }
 System.out.println("Osman Abi sen iyi adamsin");
      
-System.out.println("Osman Abi sen iyi adamsin");        
+
         
 driver.quit();
 

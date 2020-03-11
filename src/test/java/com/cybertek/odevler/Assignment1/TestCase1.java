@@ -41,8 +41,9 @@ public class TestCase1 {
             System.out.println("fail");
         }
 System.out.println("Osman Abi sen iyi adamsin");
-     
-System.out.println("Osman Abi sen iyi adamsin");        
+System.out.println("Osman Abi sen iyi adamsin");  
+System.out.println("salatalik");  
+        
         
 driver.quit();
 

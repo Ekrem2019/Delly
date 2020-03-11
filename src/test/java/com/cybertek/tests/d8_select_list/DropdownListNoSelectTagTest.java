@@ -21,11 +21,11 @@ public class DropdownListNoSelectTagTest {
         List<WebElement>options=driver.findElements(By.className("dropdown-item"));
         for (WebElement option:options
              ) {
-            System.out.println(option.getText());
-            driver.findElement(By.linkText("Yahoo")).click();
+           System.out.println(option.getText());
+
 
         }
-
+        driver.findElement(By.linkText("Yahoo")).click();
 
 
 
